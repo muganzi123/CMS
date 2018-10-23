@@ -1,2 +1,2 @@
-# FAST-FOOD
-Fast Food Web Application
+# CMS
+Customer Management Web Application
